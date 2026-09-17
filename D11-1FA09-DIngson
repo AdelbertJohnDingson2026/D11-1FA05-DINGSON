@@ -1,7 +1,7 @@
 # D11-1FA09-DINGSON
 #Circumference of a Circle
 
-import math
+import math # Import the math library to access the value of pi
 
 # Get the radius from the user
 radius = float(input("Enter the radius of the circle: "))
